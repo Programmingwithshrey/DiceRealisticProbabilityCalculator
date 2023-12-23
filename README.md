@@ -1,2 +1,2 @@
 # DiceRealisticProbabilityCalculator
-Kindly check readme file for more information
+Although theoretically, after every roll of dice the probability of any number coming remains 1/6. But in reality, we know thats not the case. If I roll a 6 twice, we can almost safely say its almost not real that Ill get a 6 again.  Thats why I have created this software, which takes in data inputs of the last number that came up on the dice, and represents the probability (in practice) of what the next number would be.
